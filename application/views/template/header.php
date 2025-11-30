@@ -15,6 +15,8 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/plugins/fontawesome-free/css/all.min.css">
   <!-- Theme style -->
   <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/dist/css/adminlte.min.css">
+  <!-- Custom CSS  -->
+  <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/dist/css/custom.css">
 </head>
 <body class="hold-transition sidebar-mini">
 <div class="wrapper">
@@ -84,7 +86,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
           <a href="#" class="dropdown-item">
             <!-- Message Start -->
             <div class="media">
-              <img src="<?= base_url('assets/dist/img/user8-128x128.jpg'); ?>" alt="User Avatar" class="img-size-50 img-circle mr-3">
+              <img src="<?= base_url('assets/dist/img/user2-160x160.jpg'); ?>" alt="User Avatar" class="img-size-50 img-circle mr-3">
               <div class="media-body">
                 <h3 class="dropdown-item-title">
                   John Pierce
